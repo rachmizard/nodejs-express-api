@@ -1,0 +1,66 @@
+{
+    "students": [
+        {
+            "id": 1, 
+            "name": "Ahmad Zulfikar",
+            "class": "3A"
+        },
+        
+        {
+            "id": 2,
+            "name": "Ahmad Akbar",
+            "class": "3A"
+        },
+        
+        {
+            "id": 3,
+            "name": "Ahmad Bari",
+            "class": "3A"
+        },
+        
+        {
+            "id": 4,
+            "name": "Ahmad Reyhan",
+            "class": "3A"
+        },        
+        {
+            "id": 5,
+            "name": "Ahmad Yustin",
+            "class": "3A"
+        },
+        {
+            "id": 6,
+            "name": "Ahmad Lincoln",
+            "class": "3A"
+        }
+    ],   
+    "1": {
+            "name": "Ahmad Zulfikar",
+            "class": "3A"
+        },
+        
+    "2": {
+            "name": "Ahmad Akbar",
+            "class": "3A"
+        },
+        
+    "3": {
+            "name": "Ahmad Bari",
+            "class": "3A"
+        },
+        
+    "4": {
+            "name": "Ahmad Reyhan",
+            "class": "3A"
+        },
+        
+    "5": {
+            "name": "Ahmad Yustin",
+            "class": "3A"
+        },
+        
+    "6": {
+            "name": "Ahmad Lincoln",
+            "class": "3A"
+        }
+}
